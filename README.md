@@ -232,7 +232,8 @@ Arquivos.
 - Toque no meio do texto para mostrar ou esconder as barras.
 - A barra de baixo mostra o progresso e pula para qualquer ponto do livro.
 - **Aa** muda o tema (claro, sépia, escuro), o tamanho e a fonte do texto. No PDF,
-  muda o zoom.
+  muda o zoom e, para um livro com letras difíceis de ler, a fonte: **Serifada** ou
+  **Sem serifa** redesenham o texto no mesmo lugar, só naquele livro.
 - O ícone de lista abre o **Sumário** e as abas **Marcadores** e **Notas**.
 - A lupa busca no livro inteiro.
 
